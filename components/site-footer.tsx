@@ -13,7 +13,7 @@ export function SiteFooter() {
             src="https://avatars.githubusercontent.com/u/111875474?v=4"
             width={28}
             height={28}
-            class="rounded-full"
+            className="rounded-full"
           />
           <span className="hidden font-bold md:inline-block">
             Kartik Sharma
